@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "mccormicka",
+  "repo": "string-argv",
+  "versions": [
+    {
+      "commit": "7415c20121bfa02887162b8326042563b903c332",
+      "parsed_at": "2026-09-16T19:43:02.861748+00:00",
+      "tag": "v0.3.0",
+      "filetree": "filetree/7415c20121bfa02887162b8326042563b903c332.nq.gz",
+      "blobs": [
+        "blob/30cd4820b054bd80456cbe249ed17d9619354854.nq.gz",
+        "blob/be667eb13c1a5edd78fa36cc405cb73b0afb9398.nq.gz",
+        "blob/543acb058dfa9c35b3cec4d2760cd65261db5420.nq.gz",
+        "blob/b4a0bdd56f0410db23981c78ad675c480ac30ea6.nq.gz",
+        "blob/ce37111611585bedea328d11f235ced6270b5561.nq.gz",
+        "blob/4535bb5251f7aaac8a22979ef67f2b3be7e8cf17.nq.gz",
+        "blob/5f49141f3fdb4973ad86c1ed01f92646556e3946.nq.gz",
+        "blob/ca32cb086e3dfcb1173ccf77634de1fdc62998ff.nq.gz",
+        "blob/3a2882a5e2b19c92fd614a2a0a2d94fb68ef2436.nq.gz",
+        "blob/216a7b3f5741dac90a0a2c882cf7358d37cf845b.nq.gz",
+        "blob/7e8742819003b97364eed1a41b80f2284cf3b1c3.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
